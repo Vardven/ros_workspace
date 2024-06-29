@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 c0 af ba 4c 14 09 65-7b 1e 54 47 15 b7 ff c6</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">Ubuntu 64 &amp;#xE4;&amp;#xBD;&amp;#x8D;.vmx</vmxPathName></VM><tools-install-info><installError>21004</installError><updateCounter>5</updateCounter></tools-install-info></Foundry>
